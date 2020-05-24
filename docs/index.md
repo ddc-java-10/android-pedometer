@@ -1,41 +1,43 @@
 ---
-title: My Android project
-description: "Trust me, it'll be cool"
-layout: default
+title: Pedometer
+description: "This pedometer uses the built-in sensor to count your steps."
 ---
 
 ## Summary
+Pedometer" records the number of steps you have walked and displays them again along with the distance, walking time and speed per hour.
+• Developer must include start, stop, Restart and pause button.
+• Developer can back up and restore data example Google drive. 
+• Developer may not use GPS to save phone batter. 
+• Report must be displayed in innovative graph design.
+• It should be free for all user.
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the Android app you propose to develop in this project.
 
 ## Intended users
 
-Write a bullet list here, including at least 2 different types of intended users. Make it reasonably specific; simply saying "Anyone who likes games" (for example) is not sufficiently specific.
-
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user needs to perform, and the benefit that will be obtained. The simplest user stories take the form 
-
-> As a <type of intended user (_who_)> I want to <goal (_what_)> so that <benefit (_why_).
-
-Please avoid writing too much for the user story. In particular, if the way the user story is written makes it difficult to see the _who_, _what_, and _why_, then you probably need to re-write it more directly. (On the other hand, a user story should not simply be a re-statement of the intended user description.)
-
-Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
-
-* People who like to use randomness in their decision making.
-
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
+* People who have to monitor their rotunie health progress .
+    > As a brand new user, I want to sync this app with my activity tracker of choice so that I can view my progress towards my daily activity goal.
 
 ## Functionality
+• View a graph with the number of steps you have walked and all other information anytime.
+• Touch the graph to highlight information data for a specific time or date.
+• Swipe to the left to see the data recorded until the previous day.
+• Can change the look of the app, change the theme.
 
-List (using a bullet list&mdash;or ordered list, if order is relevant) the key functional aspects that will be provided by the app&mdash;i.e. tell us what the user will be able to do using the app. This should not simply be a re-statement of the [summary](#summary), but should instead provide a more specific articulation of the functionality and user experience. 
 
 ## Persistent data
-
-List, in general terms and using a bullet list, what content will be stored on the client side. This should include any information that users of your system would expect to be maintained (i.e. without connection to a server) across multiple sessions of use. 
+• User can update latest version of app free on device.
+• Record of walk for atleast one month.
     
 ## Device/external services
-
-If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here using a bullet list. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Movie Database, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
-
+• MEMS inertial sensors.(Microelectromechanical systems)
+• Use of any device like fitbit to document/connect data with phone.
+ 
 ## Stretch goals/possible enhancements 
 
-If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.
+Uer can inlove use of a sensor that is worn on a shoe. The Tractivity sensor logs the distance a person walks or runs, the calories burned and the time the person was active,
+which they can then view on a private web page. Tractivity's online web application provides a graphical experience and motivational resource to encourage people to lead healthier 
+lifestyles. Tractivity accounts for the variation in a walker's or runner’s stride length that occurs as pace changes. The sensors wirelessly transfer activity data to a secure server for viewing on an individual's computer.[
+
+
+##Any app help documenting data.
+Here are the best pedometer apps and step counter apps for Android! Google Fit, Leap Fitness Step Counter, MyFitnessPal. Pedometer by ITO, Pace Health Pedometer.
