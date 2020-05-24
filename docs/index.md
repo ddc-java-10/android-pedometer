@@ -19,7 +19,8 @@ Pedometer" records the number of steps you have walked and displays them again a
 
 ## Intended users
 
-* People who have to monitor their rotunie health progress .
+* People who have to monitor their rotunie health progress.
+
     > As a brand new user, I want to sync this app with my activity tracker of choice so that I can view my progress towards my daily activity goal.
 
 ## Functionality
@@ -31,7 +32,6 @@ Pedometer" records the number of steps you have walked and displays them again a
 • Swipe to the left to see the data recorded until the previous day.
 
 • Can change the look of the app, change the theme.
-
 
 ## Persistent data
 
@@ -47,11 +47,10 @@ Pedometer" records the number of steps you have walked and displays them again a
  
 ## Stretch goals/possible enhancements 
 
-
 • Uer can inlove use of a sensor that is worn on a shoe. The Tractivity sensor logs the distance a person walks or runs, the calories burned and the time the person was active,
   which they can then view on a private web page. Tractivity's online web application provides a graphical experience and motivational resource to encourage people to lead healthier 
   lifestyles. Tractivity accounts for the variation in a walker's or runner’s stride length that occurs as pace changes.
-  The sensors wirelessly transfer activity data to a secure server for viewing on an individual's computer.[
+  The sensors wirelessly transfer activity data to a secure server for viewing on an individual's computer.
 
 
 ##Any app help documenting data.
